@@ -1,0 +1,28 @@
+[
+  {
+    "title":
+      "Los fertilizantes químicos, la principal causa de los nitratos en Maó",
+    "imgbig": "img/not1big.png",
+    "imgmid": "img/not1mid.png",
+    "description":
+      "Se están estudiando alternativas para que el agua del municipio pase a ser de nuevo potable. Los fertilizantes químicos que se usan en la actividad agraria son la principal causa del exceso de nitratos en el agua que se suministra en Maó.",
+    "datetime": "10/05/2018 18:15"
+  },
+  {
+    "title": "Un rayo provoca destrozos en la ermita de Son Granot",
+    "imgbig": "img/not2big.png",
+    "imgmid": "img/not2mid.png",
+    "description":
+      "Aunque se está a la espera del informe técnico, a simple vista, según lo analizado, no parece que el impacto haya afectado a la estructura del edificio. La Ermita de Son Granot de Ferreries fue afectada por un relámpago a raíz de la fuerte tormenta eléctrica registrada en la zona el pasado miércoles por la tarde.",
+    "datetime": "11/05/2018 12:30"
+  },
+  {
+    "title":
+      "El cable eléctrico con Mallorca facilitará la llegada de más operadoras de internet",
+    "imgbig": "img/not3big.png",
+    "imgmid": "img/not3mid.png",
+    "description":
+      "El enlace submarino que tramita Red Eléctrica incluirá una conexión alternativa de fibra óptica. El enlace submarino entre Menorca y Mallorca que Red Eléctrica de España está tramitando contrarreloj para que sea una realidad antes de que acabe el año 2020 no solo permitirá terminar con la anómala situación de aislamiento eléctrico que sufre Menorca desde el pasado 27 de octubre, sino que comportará beneficios para los consumidores menorquines en el campo de las telecomunicaciones.",
+    "datetime": "11/05/2018 16:05"
+  }
+]

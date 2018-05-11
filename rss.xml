@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Menorca Daily</title>
+  <link></link>
+  <description>Noticias diarias de tu isla favorita.</description>
+  <item>
+    <title>Reabren al baño la playa de Sa Caleta</title>
+    <link></link>
+    <description>La cala ha estado cerrada cuatro días por un vertido de aguas residuales</description>
+  </item>
+  <item>
+    <title>El Consell mejora los accesos a las playas vírgenes de Ciutadella</title>
+    <link></link>
+    <description>Realiza acciones en los de Macarella, Cala en Turqueta, Son Saura, La Vall y Punta Nati</description>
+  </item>
+</channel>
+</rss>
