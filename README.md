@@ -2,6 +2,8 @@
 
 https://rawgit.com/Sebaslc1077/Proyecto-Final-LMSGI/master/news.html
 
+**NOTA: Funciona mucho mejor con Firefox.**
+
 Projecto Final LMSGI - Pagina web de noticas autorellenable (scroll)
 
 Checklist:
