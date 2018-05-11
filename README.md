@@ -1,6 +1,6 @@
 ﻿# Proyecto-Final-LMSGI
 
-rawgit here
+https://rawgit.com/Sebaslc1077/Proyecto-Final-LMSGI/master/news.html
 
 Projecto Final LMSGI - Pagina web de noticas autorellenable (scroll)
 
